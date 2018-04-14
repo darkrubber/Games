@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1523486307 source:f:\c++\symboltable\main.cpp
+	<iostream>
+	<string>
+	<stack>
+	<fstream>
+	<sstream>
+	<cstring>
+	<stdlib.h>
+	<SymTable.h>
+
+1523484712 f:\c++\symboltable\include\symtable.h
+	<string>
+	<iostream>
+	<unordered_map>
+
+1523486307 source:f:\c++\symboltable\src\symtable.cpp
+	"SymTable.h"
+
+1523626065 source:f:\c++\6110\symboltable\main.cpp
+	<iostream>
+	<string>
+	<stack>
+	<fstream>
+	<sstream>
+	<cstring>
+	<stdlib.h>
+	<SymTable.h>
+	<vector>
+
+1523623354 f:\c++\6110\symboltable\include\symtable.h
+	<string>
+	<iostream>
+	<unordered_map>
+
+1523627003 source:f:\c++\6110\symboltable\src\symtable.cpp
+	"SymTable.h"
+
