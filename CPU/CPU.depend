@@ -1,8 +1,0 @@
-# depslib dependency file v1.0
-1521164789 source:f:\c++\cpu\cpu.cpp
-	<iostream>
-	<fstream>
-	<string>
-	<sstream>
-	<unistd.h>
-
